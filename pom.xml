@@ -7,7 +7,7 @@
     <groupId>com.hongjun423</groupId>
     <artifactId>toy_project</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <!-- Inherit defaults from Spring Boot -->
     <parent>
